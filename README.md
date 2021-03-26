@@ -11,4 +11,4 @@ CS112.L21.KHCL - Phân tích và thiết kế thuật toán
 * **Mã môn học:** CS112
 * **Mã lớp:** CS112.L21.KHCL
 * **Năm học:** HK2 (2020 - 2021)
-* **Giảng viên: Nguyễn Thanh Sơn
+* **Giảng viên**: Nguyễn Thanh Sơn
