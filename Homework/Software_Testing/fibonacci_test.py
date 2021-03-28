@@ -11,7 +11,7 @@ class TestAdd(unittest.TestCase):
             with open("Test_out.txt", 'w+') as f_out:    						#Creating new file output
                 self.assertEqual(fibonacci_1(3,2), 15)       					#Testing Add function if its work as expected
                 f_in.write('\n3 2')                   							#Write down test case to input file
-                f_out.write('\n{}'.format(fibonacci_1(3,5)))  					#Write down result to output file
+                f_out.write('\n{}'.format(fibonacci_1(3,2)))  					#Write down result to output file
 
                 self.assertEqual(fibonacci_1(1,1), 2)
                 f_in.write('\n1 1')
