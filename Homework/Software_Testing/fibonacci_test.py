@@ -16,6 +16,13 @@ class TestAdd(unittest.TestCase):
                 self.assertEqual(fibonacci_1(1,1), 2)
                 f_in.write('\n1 1')
                 f_out.write('\n{}'.format(fibonacci_1(1,1)))
+                
+                self.assertEqual(fibonacci_1(1000,100000), 799894155)
+                f_in.write('\n1 1')
+                f_out.write('\n{}'.format(fibonacci_1(1000,100000)))
+           
+                
+                
 
     def test_2_auto(self):
         with open("Test_in.txt", 'a+') as f_in:
