@@ -7,3 +7,6 @@
   5. Programming: cài đặt chương trình bằng NNLT Python, nộp tại https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4
 
   **Báo cáo cần được trình bày và lưu trữ với định dạng ipynb và lưu trữ trên github của nhóm.**
+ 
+ >1 [__*H_Index*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/ac24d6ad67fa09e91fe886eb0c60f9249e0f5a19/Assignments%20%232/H_index.png)
+ >2 [__*Khóa Số*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/ac24d6ad67fa09e91fe886eb0c60f9249e0f5a19/Assignments%20%232/Kh%C3%B3a_s%E1%BB%91.png)
