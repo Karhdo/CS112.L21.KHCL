@@ -11,4 +11,4 @@ Link github cần được công khai cho cả lớp tại sheet phân nhóm
 Mỗi nhóm chỉ dùng 1 tài khoản chứng thực để đăng nhập vào wecode, enroll vào lớp; sửa lại tên hiển thị theo định dạng L2x.yyyy.Nzz (Ví dụ: L21.KHTN.N03, L21.N07, L23.KHCL.N02, ...)
 
 >1. [__*Tảo Biển*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/b48de04046ae746db4c67e67b1bf9929c958ae58/Assignments%20%231/TaoBien.png)
->2. [_____*BOT*____](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/b48de04046ae746db4c67e67b1bf9929c958ae58/Assignments%20%231/BOT.png)
+>2. [__*BOT*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/b48de04046ae746db4c67e67b1bf9929c958ae58/Assignments%20%231/BOT.png)
