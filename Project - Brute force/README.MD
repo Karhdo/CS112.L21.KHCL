@@ -1,7 +1,7 @@
 # COMPLETE SEARCH - BRUTE FORCE
 
 ## Nội dung
-  - [Slide thuyết trình]()
+  - [Slide thuyết trình](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/1653f579ca56cfa9f07769cf01e7a7cc3dd7dd73/Project%20-%20Brute%20force/Complete-Search-Brute-Force.pdf)
   - [Quá trình]()
 
 ## Bài tập về nhà: 
