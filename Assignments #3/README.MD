@@ -9,5 +9,5 @@
 
 **Báo cáo cần được trình bày và lưu trữ với định dạng ipynb và lưu trữ trên github của nhóm.**
 
- >1.[__*Đổi mới*__]()
- >2.[__*Số nguyên mới*__]()
+ >1. [__*Đổi mới*__]()
+ >2. [__*Số nguyên mới*__]()
