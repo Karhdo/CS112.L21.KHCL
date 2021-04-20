@@ -9,5 +9,5 @@
 
 **Báo cáo cần được trình bày và lưu trữ với định dạng ipynb và lưu trữ trên github của nhóm.**
 
- >1. [__*Đổi mới*__]
- >2. [__*Số nguyên mới*__]
+ >1. [__*Đổi mới*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/d06d3d0b93785a38af419c3930042c8dc56f1c59/Assignments%20%233/%C4%90%E1%BB%95i_m%E1%BB%9Bi.ipynb)
+ >2. [__*Số nguyên mới*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/d06d3d0b93785a38af419c3930042c8dc56f1c59/Assignments%20%233/S%E1%BB%91_nguy%C3%AAn_m%E1%BB%9Bi.ipynb)
