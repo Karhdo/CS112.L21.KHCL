@@ -9,3 +9,7 @@
 - Định dạng file nộp: Tên_nhóm.ipynb
 - Nộp bài qua mail: 19521464@gm.uit.edu.vn
 - Deadline: 23:59:59 25/4/2021
+
+## Lời giải bài tập về nhà:
+- [Tích ba số]()
+- [Số phong phú]()
