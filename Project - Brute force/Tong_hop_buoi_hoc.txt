@@ -2,5 +2,6 @@ Tổng hợp buổi học
 Những nhóm tham gia tích cực: Nhóm 9, Nhóm 1, Nhóm 4
 Các nhóm tham gia sửa các ví dụ: Nhóm 1, Nhóm 4, Nhóm 9, Nhóm 11(Bài gà chó), Nhóm 3(Bài gà chó)
 Các nhóm đặt câu hỏi thảo luận: Nhóm 1: Bài toán không có kết quả thì sao ?
-Trả lời: Đối với những bài toán có kết quả sử dụng vét cạn chắc chắn sẽ cho ra đúng kết quả. Còn đối với những bài toán không có kết quả khi sử dụng vét cạn vẫn duyệt qua tất cả các phần tử 
+Trả lời: Đối với những bài toán có kết quả sử dụng vét cạn chắc chắn sẽ cho ra đúng kết quả. 
+Còn đối với những bài toán không có kết quả khi sử dụng vét cạn vẫn duyệt qua tất cả các phần tử 
 của mảng và sẽ không trả về giá trị nào. 
