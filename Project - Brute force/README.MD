@@ -7,7 +7,7 @@
 ## Bài tập về nhà: 
 - Đề bài:
   + [Tích ba số](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/214872853516fc59368292c1ab5cfcedaf91751e/Project%20-%20Brute%20force/Tich_3_so.png)
-  + [Số phong phu](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/214872853516fc59368292c1ab5cfcedaf91751e/Project%20-%20Brute%20force/So_phong_phu.png)
+  + [Số phong phú](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/214872853516fc59368292c1ab5cfcedaf91751e/Project%20-%20Brute%20force/So_phong_phu.png)
 - Định dạng file nộp: Tên_nhóm.ipynb
 - Nộp bài qua mail: 19521464@gm.uit.edu.vn
 - Deadline: 23:59:59 25/4/2021
