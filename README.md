@@ -17,14 +17,3 @@ CS112.L21.KHCL - Phân tích và thiết kế thuật toán
 * **Giảng viên**: Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 ## THƯ MỤC BÀI TẬP TUẦN
 - [x] [Assignments 1](Assignments #1)
-  - [x] [BOT - TRẠM THU PHÍ](Assignments #1/BOT)
-  - [x] [SEAWEED - TẢO BIỂN](Assignments #1/TaoBien)
-- [x] [Assignments 2](Assignments #2)
-  - [x] [H-Index](Assignments #2/H-Index)
-  - [x] [MAXSTR - KHÓA SỐ](Assignments #2/Khoá_số)
-- [x] [Assignments 3](Assignments #3)
-  - [x] [RENEWED - ĐỔI MỚI](Assignments #3/Đổi_mới)
-  - [x] [NEWNUM - SỐ NGUYÊN MỚI](Assignments #3/Số_nguyên_mới)
-- [x] [Assignments 4](Assignments #4)
-  - [x] [WALL - SỬA HÀNG RÀO](Assignments #4/WALL)
-  - [x] [FRACTION - PHÂN SỐ](Assignments #4/Phân_số)
