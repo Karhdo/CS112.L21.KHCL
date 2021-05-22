@@ -8,5 +8,6 @@
   5. Programming: cài đặt chương trình bằng NNLT Python, nộp tại https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6
 **Báo cáo cần được trình bày và lưu trữ với định dạng ipynb và lưu trữ trên github của nhóm.**
 
- >1. [__*Sửa hàng rào*__]()
- >2. [__*Phân số*__]()
+ >1. [__*Sửa hàng rào - 1*__]()
+     [__*Sửa hàng rào - 2*__]()
+ >2. [__*Phân số*__](https://github.com/trong-khanh-1109/CS112.L21.KHCL/blob/b6dacf9f922be17143ba3053981281d1e3853b6f/Assignments%20%234/Pha%CC%82n%20so%CC%82%CC%81.png)
