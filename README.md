@@ -1,3 +1,6 @@
+<!-- Title -->
+<h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
+<h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
 # CS112.L21.KHCL
 CS112.L21.KHCL - Phân tích và thiết kế thuật toán
 # Thành viên nhóm:
@@ -15,5 +18,3 @@ CS112.L21.KHCL - Phân tích và thiết kế thuật toán
 * **Mã lớp:** CS112.L21.KHCL
 * **Năm học:** HK2 (2020 - 2021)
 * **Giảng viên**: Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
-## THƯ MỤC BÀI TẬP TUẦN
-- [x] [Assignments 1](Assignments #1)
