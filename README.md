@@ -1,8 +1,6 @@
-<h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
+<h1 align="center"><b>CS112.L21.KHCL - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 <h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
 
-# CS112.L21.KHCL
-CS112.L21.KHCL - Phân tích và thiết kế thuật toán
 # Thành viên nhóm:
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
