@@ -1,9 +1,19 @@
-Tổng hợp buổi học
-Những nhóm tham gia tích cực: Nhóm 9, Nhóm 1, Nhóm 4
-Các nhóm tham gia sửa các ví dụ: Nhóm 1, Nhóm 4, Nhóm 9, Nhóm 11, Nhóm 3
-Các nhóm đặt câu hỏi thảo luận: Nhóm 1: Bài toán không có kết quả thì sao ?
-Trả lời: Đối với những bài toán có kết quả sử dụng vét cạn chắc chắn sẽ cho ra đúng kết quả. 
+                   ---- Tổng hợp buổi học ----
+
+* Những nhóm tham gia tích cực: Nhóm 9, Nhóm 1, Nhóm 4
+
+* Các nhóm tham gia sửa các ví dụ: Nhóm 1, Nhóm 4, Nhóm 9, Nhóm 11, Nhóm 3, Nhóm 10
+
+* Các nhóm đặt câu hỏi thảo luận: Nhóm 1: Bài toán không có kết quả thì sao ?
+=> Trả lời: Đối với những bài toán có kết quả sử dụng vét cạn chắc chắn sẽ cho ra đúng kết quả. 
 Còn đối với những bài toán không có kết quả khi sử dụng vét cạn vẫn duyệt qua tất cả các phần tử 
 của mảng và sẽ không trả về giá trị nào. 
 
-Nhóm xin được đề nghị cộng điểm cho các nhóm: Nhóm 1, Nhóm 4, Nhóm 9
+* Các nhóm đã ghi nhận hoàn thành BTVN trước deadline: 
+Bài 1 (Tích 3 số lớn nhất)  : 1 (full), 6 (full), 8 (full), 9 (full), 10 (full), 11 (full)
+Bài 2 (Số phong phú)        : 1 (full), 6 (full), - empty -, 9 (not full), 10 (full), 11 (not full)
+
+* Những nhóm full cả 2 bài: 1, 6, 10
+
+*** Nhóm mình xin được đề nghị cộng điểm cho các nhóm: Nhóm 1, Nhóm 4, Nhóm 6, Nhóm 9, Nhóm 10 vì đã hoạt động sôi nổi trong tiết học và hoàn thành tốt BTVN.
+
