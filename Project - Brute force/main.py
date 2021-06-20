@@ -1,36 +1,21 @@
-nhap = int(input())
-a = []
-for i in range(nhap):
-    v = [int (j) for j in input().split()]
-    a.append(v)
+A = list(map(int, input().strip().split()))
+B = []
+C = []
 
-def CDi(i, j):
-    CD1 = a[i][j]
-    for y in range(len(a)):
-        if (y != i):
-            k = a[y].index(min(a[y]))
-            if (k != j):
-                CD1 = CD1 + a[y][k]
-            else:
-                b = a[y].copy()
-                b[k] = max(b)
-                CD1 = CD1 + min(b)
-    return CD1
+res = 0
 
-TTG = 0
-next = []
-for i in range(len(a)):
-    tg0 = []
-    cd0 = []
-    for j in range(len(a)):
-        tg0.append(a[i][j])
-        cd0.append(CDi(i, j))
+for i in range(len(A)):
+  if A[i] < 0: B.append(A[i])
+  if A[i] > 0: C.append(A[i])
+  B.sort()
+  C.sort()
 
-    for k in next:
-        cd0[k] = max(cd0)
+x = len(B)
+y = len(C)
 
-    CD = min(cd0)
-    next.append(cd0.index(CD))
-    TTG = TTG + tg0[cd0.index(CD)]
-
-print(TTG)
+if x >= 2:
+  if len(B) % 2 == 0:
+    res = max(B[x-1]*B[x-2]*C[y-1], C[y-1]*C[y-2]*C[y-3])
+else:
+  res = C[y-1]*C[y-2]*C[y-3]
+print(res)
