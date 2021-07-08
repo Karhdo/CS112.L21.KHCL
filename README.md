@@ -1,4 +1,3 @@
-<h1 align="center"><b>CS112.L21.KHCL - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 <h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
 
 # Thành viên nhóm:
