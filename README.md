@@ -29,4 +29,4 @@
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Brute force
-* **Thư mục:** [Project - Brute force](FinalProject)
+* **Thư mục:** [Project - Brute force](https://github.com/trong-khanh-1109/CS112.L21.KHCL/tree/main/Project%20-%20Brute%20force)
