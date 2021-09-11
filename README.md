@@ -28,5 +28,5 @@
 * **Giảng viên**: Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** Brue fort
-* **Thư mục:** [FinalProject](FinalProject)
+* **Tên đồ án:** Brute force
+* **Thư mục:** [Project - Brute force](FinalProject)
